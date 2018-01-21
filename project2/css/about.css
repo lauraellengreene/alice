@@ -1,0 +1,104 @@
+/*font-family: 'Metamorphous', cursive;
+font-family: 'Mystery Quest', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Poiret One', cursive;*/
+nav {
+list-style: none;}
+
+li {
+	color: #800000;
+list-style: none;
+display: inline;
+padding: 50px;
+justify: right;
+font-family: 'Raleway', sans-serif;
+font-size: 26px;}
+
+a {
+	list-style: none;
+	text-decoration: none;
+	float: right;
+	padding-right: 380px;
+
+}
+
+a:visited 	{
+	color: black;
+	text-decoration: none;
+}
+
+body {
+	padding-left: 50px;
+	background-color: white;
+	background-image: url("../img/parchment.png");
+}
+
+
+
+h1 {
+  font-family: 'Metamorphous', cursive;
+  font-size: 66px;
+	align-items: center;
+	padding-left: 150px;
+}
+
+header {
+  width: 100%;
+  padding: 10px 0px 20px 200px;
+
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
+}
+
+h3 {
+  font-family: 'Mystery Quest', cursive;
+  font-size: 40px;
+}
+
+
+
+p {
+  font-family: 'Poiret One', cursive;
+  font-size: 26px;
+	padding-right: 200px;
+}
+
+div {
+     width:100%;
+     height:300px;
+     padding-left: 40px;
+     padding-bottom: 80px;}
+
+
+	#hot {
+		font-family: 'Metamorphous', cursive;
+		color: #FF0000;
+	}
+
+	#mouse {
+		padding-left: 500px;
+		padding-top: 25px;
+	}
+
+	#queen {
+		padding-bottom: 100px;
+	}
+
+	#clock {
+		padding-top: 630px;
+		padding-right: 80px;
+
+	}
+
+.dis{
+	text-decoration: none;
+	color: black;
+	font-family: 'Poiret One', cursive;
+	font-size: 26px;
+	float: left;
+
+
+}
